@@ -1,6 +1,6 @@
 {
   "name": "gleba-uncensored",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "title": "Gleba Uncensored",
   "author": "djfariel",
   "factorio_version": "2.1",
@@ -14,7 +14,6 @@
     "ignore": [
       "image1.png",
       "image2.png",
-      "thumbnail.png",
       "*.gif",
       ".gitignore"
     ]
